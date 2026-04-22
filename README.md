@@ -31,7 +31,7 @@ Iniciante em programação, atualmente aprendendo **C e Python**, com objetivo d
 - 🤖 Aprender **automação de tarefas** com Python e Bash
 - 📜 Conquistar certificações na área de segurança
 - 📈 Crescer continuamente na carreira de **Cybersegurança**
-- 🏖️ **Casa na praia e família** (o objetivo final 😄)
+- 🏖️ **Casa na praia** (o objetivo final 😄)
 
 ---
 
@@ -53,8 +53,8 @@ Quando não estou no terminal, estou no futebol. Simples assim.
 
 ## 📊 GitHub Stats
 
-![Deivid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Deivid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nostranidevs&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nostranidevs&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -62,20 +62,33 @@ Quando não estou no terminal, estou no futebol. Simples assim.
 
 ```
 [2026 - JAN] Início da jornada em Cybersegurança
+
   └── Inicio dos estudos na Cisco Academy (Carrer path CyberSecurity)
+
   └── Inicio do Técnologo de CyberSegurança na Estácio
+
   
+
 [2026-FEV-MAR-ABR] Evolução técnica
+
   └── Detecções OWASP Top 10 no Splunk
+
   └── Simulações de ataques com scripts Bash
+
   └── Início em programação C e Python
+
   └── Certificação IBSEC Analista SOC Essential
+
   └── Montagem do home lab (Integração Trend Micro Vision One + Splunk)
 
 [2026 →] Próximos passos
+
   └── Primeiro emprego como Analista SOC
+
   └── Automação de tarefas com Python
+
   └── Mais certificações
+
   └── 🏖️ Casa na praia (em progresso...)
 ```
 
