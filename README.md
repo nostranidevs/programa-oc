@@ -31,7 +31,7 @@ Iniciante em programação, atualmente aprendendo **C e Python**, com objetivo d
 - 🤖 Aprender **automação de tarefas** com Python e Bash
 - 📜 Conquistar certificações na área de segurança
 - 📈 Crescer continuamente na carreira de **Cybersegurança**
-- 🏖️ **Casa na praia** (o objetivo final 😄)
+- 🏖️ **Casa na praia e família** (o objetivo final 😄)
 
 ---
 
@@ -61,15 +61,16 @@ Quando não estou no terminal, estou no futebol. Simples assim.
 ## 🗺️ Minha jornada
 
 ```
-[2024] Início da jornada em Cybersegurança
-  └── Montagem do home lab (Splunk + Kali + VMs)
-  └── Certificação IBSEC Analista SOC Essential
-  └── Integração Trend Micro Vision One + Splunk
-
-[2025] Evolução técnica
+[2026 - JAN] Início da jornada em Cybersegurança
+  └── Inicio dos estudos na Cisco Academy (Carrer path CyberSecurity)
+  └── Inicio do Técnologo de CyberSegurança na Estácio
+  
+[2026-FEV-MAR-ABR] Evolução técnica
   └── Detecções OWASP Top 10 no Splunk
   └── Simulações de ataques com scripts Bash
   └── Início em programação C e Python
+  └── Certificação IBSEC Analista SOC Essential
+  └── Montagem do home lab (Integração Trend Micro Vision One + Splunk)
 
 [2026 →] Próximos passos
   └── Primeiro emprego como Analista SOC
